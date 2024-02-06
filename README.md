@@ -3,7 +3,7 @@
 📌 Here are a few things that describe me:
 
 # 💫 About Me:
-💼  I'm currently working full-time at TCS. as a Unix SysAdmin<br>🔖  Currently working on a project, will OpenSource soon (no timeline though 😜)<br>💻  I spend most of my time writing Code.<br>🌱  I’m currently learning BackEnd,DevOps,Cloud<br>💬  Ask me about anything, I'll be happy to help<br>📫  How to reach me: Twitter | Linkedin | Email 🚀<br>😄  Pronouns: he/him<br>⚡  Fun fact: I ❤️ what I am doing!!😄
+💼  I have 1.5 years working full-time at TCS. as a Unix SysAdmin<br>🔖  Currently working on a project, will OpenSource soon (no timeline though 😜)<br>💻  I spend most of my time writing Code.<br>🌱  I’m currently learning BackEnd,DevOps,Cloud<br>💬  Ask me about anything, I'll be happy to help<br>📫  How to reach me: Twitter | Linkedin | Email 🚀<br>😄  Pronouns: he/him<br>⚡  Fun fact: I ❤️ what I am doing!!😄
 
 
 ## 🌐 Socials:
